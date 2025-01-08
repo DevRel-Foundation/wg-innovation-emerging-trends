@@ -20,9 +20,10 @@ All material contributed to the DRF Innovation and Emerging Trends Work Group is
 
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
-| Luke | @lukeocodes | @lukeocodes | @lukeocodes |
-| person 2 | @ awesome |     @ person    | @ linkedin |
-| person 3 | @ awesome |     @ person    | @ linkedin |
+| Shiny Zhu | [@shinyzhu](https://github.com/shinyzhu) | shinyzhu | [🔗](https://www.linkedin.com/in/shinyzhu/) |
+| Benjamin Odom | [@bjodom](https://github.com/bjodom) | benodom | [🔗](https://www.linkedin.com/in/benjamin-odom-07539180/) |
+| David Simmons | [@davidgs](https://github.com/davidgs) | davidgs | [🔗](https://www.linkedin.com/in/davidgsimmons/) |
+| Luke Oliff | [@lukeocodes](https://github.com/lukeocodes) | lukeocodes | [🔗](https://www.linkedin.com/in/lukeocodes/) |
 
 If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
 
