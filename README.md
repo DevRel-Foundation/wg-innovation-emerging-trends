@@ -4,7 +4,7 @@ Welcome to the DRF Innovation and Emerging Trends Work Group
 
 - Our mailing list to join is here: https://lists.dev-rel.org/g/wg-innovation-emerging-trends
 - Our Strategic goals for 2025 can be found [here](https://github.com/DevRel-Foundation/wg-innovation-emerging-trends/goals.md).
-- We welcome contributions via the [mailing list](https://lists.dev-rel.org/g/wg-innovation-emerging-trends), our Discord, our  and here on GitHub.
+- We welcome contributions via the [mailing list](https://lists.dev-rel.org/g/wg-innovation-emerging-trends), our Discord, and here on GitHub.
 
 All material contributed to the DRF Innovation and Emerging Trends Work Group is under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
 
@@ -12,9 +12,29 @@ All material contributed to the DRF Innovation and Emerging Trends Work Group is
 
 <!-- Write a well-defined mission statement for the group for the 6 month period -->
 
+### Mission Statement for the Innovation and Emerging Trends Working Group
+
+This working group is dedicated to exploring and advancing the use of new technologies and strategies within developer relations (DevRel) practices. Our mission is to identify, evaluate, and share actionable strategies that empower DevRel professionals to adapt to emerging trends, optimize developer engagement, and embrace sustainable practices.
+
+This group aims to:
+
+1. **Explore AI in DevRel**: Investigate practical applications of AI in automation, development, onboarding, and community, enhancing both efficiency and developer satisfaction.
+1. **Maintain Relevance**: Examine evolving industry trends to ensure DevRel strategies remain aligned with developers’ needs and expectations.
+1. **Balance Sustainability and Reach**: Analyze the trade-offs between in-person and virtual engagement to propose sustainable practices without compromising impact or inclusivity.
+1. **Evaluate Engagement Formats**: Compare the effectiveness of live versus asynchronous and virtual versus in-person interactions to inform best practices for developer engagement.
+
+The group will operate transparently, leveraging its mailing list, Discord channel, and GitHub to encourage open participation, knowledge sharing, and collaboration among all stakeholders. Through this work, the group will contribute to the broader mission of the Developer Relations Foundation. 
+
 ## Expectations
 
 <!-- Estimate what resources and personnel are needed to accomplish the mission statement -->
+
+Members should try to allocate an hour per week to working group activities. This may include:
+
+- Participating in discussions on the mailing list, Discord channel, or GitHub.
+- Contributing to collaborative documents or research efforts.
+- Attending scheduled meetings or asynchronous check-ins.
+- Reviewing and providing feedback on group outputs.
 
 ## Manager List
 
@@ -32,11 +52,12 @@ If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-
 
 ## Meetings
 
-Our regular calls are fortnightly – every two weeks. You can find the event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
+Our regular will alternate between APAC, EMEA, and AMER, occuring every two weeks. You can find each agenda on GitHub and event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
 
 ## Code of Conduct
 
 <!-- inherit DRF COC -->
 
+Members and participants must adhere to the [code of conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md) for the wider community.
 
 
