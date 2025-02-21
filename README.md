@@ -29,7 +29,7 @@ The group will operate transparently, leveraging its mailing list, Discord chann
 
 <!-- Estimate what resources and personnel are needed to accomplish the mission statement -->
 
-Members should try to allocate an hour per week to working group activities. This may include:
+Working Group participants should try to allocate an hour per week to working group activities. This may include:
 
 - Participating in discussions on the mailing list, Discord channel, or GitHub.
 - Contributing to collaborative documents or research efforts.
