@@ -58,7 +58,7 @@ Our regular will alternate between APAC, EMEA, and AMER, occuring every two week
 
 <!-- inherit DRF COC -->
 
-Members and participants must adhere to the [code of conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md) for the wider community.
+Working group managers and participants must adhere to the [code of conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md) for the wider community.
 
 ## Governance
 
